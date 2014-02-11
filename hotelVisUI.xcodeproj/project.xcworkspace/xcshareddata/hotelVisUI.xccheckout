@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0C91A58-3254-4924-ABFD-B6209D3CF1F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hotelVisUI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1318DB65-E528-4386-93E2-D27D92A1D0AA</key>
+		<string>https://github/cyburgee/Sky.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hotelVisUI/hotelVisUI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1318DB65-E528-4386-93E2-D27D92A1D0AA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github/cyburgee/Sky.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1318DB65-E528-4386-93E2-D27D92A1D0AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1318DB65-E528-4386-93E2-D27D92A1D0AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myApps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
